@@ -39,24 +39,24 @@ kingfast-tj3-chatgpt = trojan, tj3.helloking.win, 443, password=ODM2MTNfMTEzMjM4
 🐟 漏网之鱼 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,特价年付-US1,特价年付-US2,特价年付-US3,特价年付-US1-v2,特价年付-US2-v2,特价年付-US3-v2,kingfast-tj1-chatgpt,kingfast-tj2-chatgpt,kingfast-tj3-chatgpt
 
 [Rule]
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0,🎯 全球直连，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTVNTZXJ2aWNlcy5saXN0,Ⓜ️ 微软服务，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvVW5icmVhay5saXN0,🎯 全球直连，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0,🛑 全球拦截，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q,🛑 全球拦截，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvVmlkZW8vTmV0ZmxpeC5saXN0,🎥 NETFLIX,update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q,🌍 国外媒体，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9CaWxpYmlsaS5saXN0,🌏 国内媒体，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0,🌏 国内媒体，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9MZXR2Lmxpc3Q,🌏 国内媒体，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9NT08ubGlzdA,🌏 国内媒体，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9UZW5jZW50IFZpZGVvLmxpc3Q,🌏 国内媒体，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0,🌏 国内媒体，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA,📲 电报信息，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q,🔰 节点选择，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvQXBwbGUvQXBwbGUubGlzdA,🍎 苹果服务，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA,🎯 全球直连，update-interval=86400
-RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTm9ieURhL1N1cmdlL0Rvd25sb2FkLmxpc3Q,🎯 全球直连，update-interval=86400
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0,🎯 全球直连
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTVNTZXJ2aWNlcy5saXN0,Ⓜ️ 微软服务
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvVW5icmVhay5saXN0,🎯 全球直连
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0,🛑 全球拦截
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q,🛑 全球拦截
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvVmlkZW8vTmV0ZmxpeC5saXN0,🎥 NETFLIX
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q,🌍 国外媒体
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9CaWxpYmlsaS5saXN0,🌏 国内媒体
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0,🌏 国内媒体
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9MZXR2Lmxpc3Q,🌏 国内媒体
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9NT08ubGlzdA,🌏 国内媒体
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9UZW5jZW50IFZpZGVvLmxpc3Q,🌏 国内媒体
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0,🌏 国内媒体
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA,📲 电报信息
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q,🔰 节点选择
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvQXBwbGUvQXBwbGUubGlzdA,🍎 苹果服务
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA,🎯 全球直连
+RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTm9ieURhL1N1cmdlL0Rvd25sb2FkLmxpc3Q,🎯 全球直连
 RULE-SET,https://jsd.cdn.zzko.cn/gh/sseaan/file@latest/Custom.txt,DIRECT
 GEOIP,CN,🎯 全球直连
 FINAL,🐟 漏网之鱼
