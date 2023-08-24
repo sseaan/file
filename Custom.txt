@@ -1,0 +1,3 @@
+DOMAIN,mathpix.com
+DOMAIN,ifttt.com
+DOMAIN,libre.fm
