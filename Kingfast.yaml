@@ -57,7 +57,7 @@ RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZX
 RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvQXBwbGUvQXBwbGUubGlzdA,🍎 苹果服务，update-interval=86400
 RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA,🎯 全球直连，update-interval=86400
 RULE-SET,http://subconverter2.helloking.win/getruleset?type=1&url=c3VyZ2U6cnVsZXMvTm9ieURhL1N1cmdlL0Rvd25sb2FkLmxpc3Q,🎯 全球直连，update-interval=86400
-RULE-SET,https://jsd.cdn.zzko.cn/gh/sseaan/file@latest/Custom.txt,🎯 全球直连，update-interval=86400
+RULE-SET,https://jsd.cdn.zzko.cn/gh/sseaan/file@latest/Custom.txt,🎯 全球直连
 GEOIP,CN,🎯 全球直连
 FINAL,🐟 漏网之鱼
 
